@@ -1,6 +1,8 @@
 # Gambaran Aplikasi
 
 ![Halaman Login](ssApps/BOBOT.png)
+![Halaman Login](ssApps/TABEL_KEPENTINGAN.png)
+![Halaman Login](ssApps/TENTANG_APLIKASI.png)
 
 <!-- <ul>
   <li>  
