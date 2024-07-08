@@ -1,13 +1,15 @@
-# Klik Untuk demo Aplikasi
+# Gambaran APlikasi
 
-<ul>
+![Halaman Login](ssApps/BOBOT.png)
+
+<!-- <ul>
   <li>  
     <h4><a href="login.php">Demo Login</a></h4>
   </li>
   <!-- <li>
     <h4><a href="http://matrixadmin.wrappixel.com/matrix-admin-package-full.zip">Download Link</a></h4>
   </li> -->
-</ul>
+<!-- </ul> --> -->
   
 <!-- Main image of Template -->
 <!-- <a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/matrix-bootstrap-admin-y.jpg">
@@ -20,8 +22,7 @@
 <p>Please give us rate on github, Thanks<p>
 
 <!-- Upgrade to Premium version of Template -->
-<!-- <h2>Upgrade to Premium Admin Dashboards</h2> --> --> -->
-
+<!-- <h2>Upgrade to Premium Admin Dashboards</h2> --> 
 <!-- bootstrap premium dashboards -->
 <!-- <table>
 <thead>
