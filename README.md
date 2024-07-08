@@ -1,4 +1,4 @@
-# Gambaran APlikasi
+# Gambaran Aplikasi
 
 ![Halaman Login](ssApps/BOBOT.png)
 
@@ -9,7 +9,7 @@
   <!-- <li>
     <h4><a href="http://matrixadmin.wrappixel.com/matrix-admin-package-full.zip">Download Link</a></h4>
   </li> -->
-<!-- </ul> --> -->
+<!-- </ul> -->
   
 <!-- Main image of Template -->
 <!-- <a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/matrix-bootstrap-admin-y.jpg">
